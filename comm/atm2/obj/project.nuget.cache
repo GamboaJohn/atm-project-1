@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WIdpDwvvUNHi5sIUPS0Xj63Q2EqSula0wcpYYutmhrBMgKrmDjt2E1EXmGvr8WYqnDCC6wEGvCVsvSs3wE9Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\john peter gamboa\\Documents\\comm\\atm2\\atm2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\john peter gamboa\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\john peter gamboa\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\john peter gamboa\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
